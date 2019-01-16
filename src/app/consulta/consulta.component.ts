@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ConsultaComponent implements OnInit {
 
-  consulta = {
+  consultas = {
     "realizadas" : [
         { "especialidade" : "Cardiologia", "quantidade" : 20 },
         { "especialidade" : "ClÃ­nica Geral", "quantidade" : 30 },
